@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilt", "Bilt\Bilt.csproj", "{6DE7AB41-E281-4EA2-849F-65680B19F792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiltTests", "BiltTests\BiltTests.csproj", "{16FB3164-3337-41B7-A9C5-AAD2A161C835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE7AB41-E281-4EA2-849F-65680B19F792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE7AB41-E281-4EA2-849F-65680B19F792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE7AB41-E281-4EA2-849F-65680B19F792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE7AB41-E281-4EA2-849F-65680B19F792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FB3164-3337-41B7-A9C5-AAD2A161C835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FB3164-3337-41B7-A9C5-AAD2A161C835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FB3164-3337-41B7-A9C5-AAD2A161C835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FB3164-3337-41B7-A9C5-AAD2A161C835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF43AACC-F82C-4919-AF3E-B0F0B90ECB68}
+	EndGlobalSection
+EndGlobal
