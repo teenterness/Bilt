@@ -27,6 +27,12 @@ namespace Bilt.Controllers
 						Rel = "loyalty_programs",
 						Method = "get",
 						Href = LoyaltyProgramController.ROUTE
+					},
+					new Link
+					{
+						Rel = "transaction",
+						Method = "get",
+						Href = TransactionController.ROUTE
 					}
 				}
 			};
